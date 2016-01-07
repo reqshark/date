@@ -1,0 +1,16 @@
+{
+  "name":           "datey",
+  "version":        "0.0.1",
+  "description":    "friendlier date",
+  "repository": {
+    "type":         "git",
+    "url":          "https://github.com/reqshark/date"
+  },
+  "author": {
+    "name":         "Bent Cardan",
+    "email":        "bent@nothingsatisfies.com",
+    "url":          "http://req.link"
+  },
+  "license":        "MIT",
+  "keywords": [ "date" ]
+}
