@@ -1,6 +1,6 @@
 
 // avoid having to use the new keyword
-Date.y = f => t.call(new Date(), f)
+Date.t = Date.y = f => t.call(new Date(), f)
 
 // this madness .. eh
 function t(f) {
